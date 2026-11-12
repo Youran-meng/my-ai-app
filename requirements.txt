@@ -1,7 +1,9 @@
 streamlit
-openai
+pandas
+numpy
 python-dotenv
 pypdf
+docx2txt
 chromadb
 sentence-transformers
 langchain-openai
@@ -11,4 +13,3 @@ langchain-chroma
 langchain-huggingface
 langchain-classic
 langchain-core
-torchvision
